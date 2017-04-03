@@ -1,0 +1,19 @@
+{
+  "name": "coloryou",
+  "version": "1.0.0",
+  "description": "API Project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timjackwilkins/coloryou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timjackwilkins/coloryou/issues"
+  },
+  "homepage": "https://github.com/timjackwilkins/coloryou#readme"
+}
